@@ -1,0 +1,42 @@
+exp_id	account_code	description	close_val
+1	1110100	Land & Build Dep Op Bal	Asset_Liability
+2	1110102	Land & Build Dep Cur Yr	Asset_Liability
+3	1110104	Land & Build Dep - Interco	Asset_Liability
+4	1110200	Off & Bus Equip Dep Op Bal	Asset_Liability
+5	1110202	Off & Bus Equip Dep Cur Yr	Asset_Liability
+6	1110204	Off & Bus Equip Dep - Interco	Asset_Liability
+7	1110300	Off Fittings Dep Op Bal	Asset_Liability
+8	1110302	Off Fittings Dep Cur Yr	Asset_Liability
+9	1110304	Off Fittings Dep - Interco	Asset_Liability
+10	1110400	Off Furniture Dep Op Bal	Asset_Liability
+11	1110402	Off Furniture Dep Cur Yr	Asset_Liability
+12	1110404	Off Furniture Dep - Interco	Asset_Liability
+13	1110500	Motor Veh Dep Op Bal	Asset_Liability
+14	1110502	Motor Veh Dep Cur Yr	Asset_Liability
+15	1110504	Motor Veh Dep - Interco	Asset_Liability
+16	1110600	IT Hardware Dep Op Bal	Asset_Liability
+17	1110602	IT Hardware Dep Cur Yr	Asset_Liability
+18	1110604	IT Hardware Dep - Interco	Asset_Liability
+19	1110700	IT Software Dep Op Bal	Asset_Liability
+20	1110702	IT Software Dep Cur Yr	Asset_Liability
+21	1110704	IT Software Dep - Interco	Asset_Liability
+22	1110800	Lease Comm Dep Op Bal	Asset_Liability
+23	1110802	Lease Comm Dep Cur Yr	Asset_Liability
+24	1110804	Lease Comm Dep - Interco	Asset_Liability
+25	1110900	IT Other Dep Op Bal	Asset_Liability
+26	1110902	IT Other Dep Cur Yr	Asset_Liability
+27	1110904	IT Other Dep - Interco	Asset_Liability
+28	1130050	Goodwill Amortisation /Impairm	Asset_Liability
+29	1130150	Contract Rights Amortisation	Asset_Liability
+30	1130160	Customer Relationships Amortis	Asset_Liability
+31	1130170	Brands Amortisation	Asset_Liability
+32	1130180	Licenses Amortisation	Asset_Liability
+33	1130900	Other Intan Assets - Amort Op	Asset_Liability
+34	1130901	Other Intan Assets - Amort Cur	Asset_Liability
+35	1225100	Right-to-Use Buildings Acc Dep	Asset_Liability
+36	1225102	Right-to-Use Buildings Depn fo	Asset_Liability
+37	1225103	Right-to-Use Buildings Depn on	Asset_Liability
+38	1225150	Right-to-Use Land Acc Depn	Asset_Liability
+39	1225152	Right-to-Use Land Depn for yea	Asset_Liability
+40	1225153	Right-to-Use Land Depn on Term	Asset_Liability
+41	1225202	Right-to-Use Office & Bus Equi	Asset_Liability
